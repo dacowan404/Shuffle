@@ -6,9 +6,9 @@ or B.) Three words entered as command line arguments suchs as "java Shuffle word
 Output:
 A file output.txt that consist of either "CORRECT" or "INCORRECT" based on it shuffle is possible.
 
-Examples:
-word1  word2  shuffleWord  Output.txt
-ANT    ABS    ANABS        CORRECT
-ANT    ABS    AANTS        INCORRECT
-ANT    ABS    ABSANT       CORRECT
-ANT    ABS    ANTABS       CORRECT
+| Word1 | Word2 | ShuffleWord | Output.txt |
+|-----:|-----------|--|--|
+|ANT | ABS | ANABS | CORRECT |
+|ANT | ABS | AANTS | INCORRECT |
+|ANT | ABS | ABSANT | CORRECT |
+|ANT | ABS | ANTABS | CORRECT |
