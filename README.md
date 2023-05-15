@@ -1,5 +1,6 @@
 # Shuffle
 A program that determines if two words can be shuffled together in order to make a third word.
+
 Input:
 
 A.) A file that consists of three words ("word1 word2 shuffleWord") separated by space and on a single line
